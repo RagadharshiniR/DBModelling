@@ -1,4 +1,4 @@
 # DBModelling
 
-SQL Usecase Diagram
-SQl Queries
+- SQL Usecase Diagram
+- SQl Queries
